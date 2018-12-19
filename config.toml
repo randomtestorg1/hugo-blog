@@ -29,7 +29,7 @@ paginate = 10
 publishDir = "public"
 
 # Color-theme or style for syntax highlighting.
-pygmentsStyle = "bw"
+pygmentsStyle = "dracula"
 
 # Enable code fence background highlighting.
 pygmentsCodeFences = true
@@ -84,40 +84,53 @@ googleAnalytics = "UA-125667904-1" # Google Analytics
     # Social links
     [[params.social]]
         name = "Github"
-	icon = "fab fa-github fa-2x"
+	    icon = "fab fa-github fa-2x"
         weight = 1
         url = "https://github.com/kshitij10496/"
     [[params.social]]
-        name = "Twitter"
-	icon = "fab fa-twitter fa-2x"
+        name = "Stack Overflow"
+        icon = "fab fa-stack-overflow fa-2x"
         weight = 2
+        url = "https://stackoverflow.com/users/4927751/kshitij-saraogi?tab=profile"
+    [[params.social]]
+        name = "Twitter"
+	    icon = "fab fa-twitter fa-2x"
+        weight = 3
         url = "https://twitter.com/kshitij10496/"
     [[params.social]]
         name = "LinkedIn"
-	icon = "fab fa-linkedin fa-2x"
-        weight = 3
+	    icon = "fab fa-linkedin fa-2x"
+        weight = 4
         url = "https://www.linkedin.com/in/kshitij10496/"
+   [[params.social]]
+        name = "Medium"
+        icon = "fab fa-medium fa-2x"
+        weight = 5
+        url = "https://medium.com/@kshitij10496"
     [[params.social]]
         name = "Instagram"
-	icon = "fab fa-instagram fa-2x"
-        weight = 4
+	    icon = "fab fa-instagram fa-2x"
+        weight = 6
         url = "https://www.instagram.com/kshitij10496/"
-   [[params.social]]
-	name = "Medium"
-	icon = "fab fa-medium fa-2x"
-	weight = 5
-	url = "https://medium.com/@kshitij10496"
- 
+    
     # Menu links
     [[menu.main]]
         name = "BLOG"
-        weight = 1
+        weight = 2
         url  = "/posts/"
     [[menu.main]]
         name = "ABOUT"
-        weight = 2
+        weight = 1
         url = "/about/"
     [[menu.main]]
         name = "VALUES"
         weight = 3
         url = "/values/"
+    [[menu.main]]
+        name = "QUOTES"
+        weight = 4
+        url = "/quotes/"
+    [[menu.main]]
+        name = "RÉSUMÉ"
+        weight = 5
+        url = "https://drive.google.com/file/d/1-PqZNNRAuCvtquXWbgvBFEyrTRDwesKV/view?usp=sharing"
