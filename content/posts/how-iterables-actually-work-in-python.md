@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["Python", "Medium"]
+categories = ["Medium", "Software"]
 date = 2017-08-28T00:00:00+05:30
 description = ""
 draft = false
 slug = "how-iterables-actually-work-in-python"
-tags = ["Python", "Medium"]
+tags = ["Python", "iterable"]
 title = "How Iterables Actually Work in Python"
 
 +++

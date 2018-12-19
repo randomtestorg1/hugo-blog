@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["Software", "Typing", "Python", "Go"]
+categories = ["Software"]
 date = 2017-12-10T00:00:00+05:30
 description = ""
 draft = false
 slug = "typing"
-tags = ["Software", "Typing", "Python", "Go"]
+tags = ["Typing", "Python", "Go"]
 title = "Typing in Python, Go and JavaScript"
 
 +++

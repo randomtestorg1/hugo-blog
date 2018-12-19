@@ -3,8 +3,8 @@ draft = false
 date = 2018-09-09T19:03:31+05:30
 title = "Hugo Blog On GitHub Pages"
 slug = "hugo-blog-setup"
-tags = ["hugo", "git", "github", "meta"]
-categories = ["dev-setup"]
+tags = ["Hugo", "git", "GitHub"]
+categories = ["Setup", "Blog"]
 +++
 
 **Looking to create your personal blog using Hugo and hosting it on GitHub Pages?**  

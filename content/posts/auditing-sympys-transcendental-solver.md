@@ -1,9 +1,9 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["GSoC", "sympy", "Python"]
+categories = ["GSoC"]
 date = 2016-05-15T00:00:00+05:30
 slug = "auditing-sympys-transcendental-solver"
-tags = ["GSoC", "sympy", "Python"]
+tags = ["Sympy", "Python"]
 title = "Auditing SymPy's Transcendental solver"
 +++
 

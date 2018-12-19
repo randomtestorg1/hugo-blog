@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["GSoC", "sympy", "Python"]
+categories = ["GSoC"]
 date = 2016-08-07T00:00:00+05:30
 description = ""
 draft = false
 slug = "gsoc-week-10-11"
-tags = ["GSoC", "sympy", "Python"]
+tags = ["Sympy", "Python"]
 title = "GSoC Week 10 & 11 - The One with `solvify`"
 
 +++
@@ -22,7 +22,7 @@ title = "GSoC Week 10 & 11 - The One with `solvify`"
    
 
 
-2. Adding `domain` support.  
+1. Adding `domain` support.  
     
     I added a `domain` argument to `isolve` whose default value is the real domain (`domain=S.Reals`).
     A few limitation to the conditions of `S.Infinity` and `S.NegativeInfinity` followed.
@@ -32,7 +32,7 @@ title = "GSoC Week 10 & 11 - The One with `solvify`"
     
     This was a minimalistic addition with considerable returns (especially for solving periodic inequalties).
 
-3. Solving trigonometric inequalities.
+2. Solving trigonometric inequalities.
     
     Since most of the trigonometric inequalities are periodic in nature and have infinite solutions, 
     solving the expression in the entire real domain is a repetitive task and computationally expensive.

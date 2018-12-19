@@ -8,19 +8,18 @@ categories = []
 +++
 
 Well, a lot of people ask me for motivation.
-I have asked(and continue to ask) a lot of others for motivation.
-What's stopping you from working on that project? 
+I have asked (and continue to ask) a lot of others for motivation.
+I'm genuinely interesting in learning 
+
+I started instrospecting: "What's stopping me from working on *that* project?"
 
 I believe that even though motivation might be intrinsic to us.
 Most of us need a stimulus to trigger us to action.
-Also, for a major part of my life, I have believed that we need motivation to work.
-Recently, I found this is not exactly the case.
-
-Over the last of couple of days, I've spent around 20 hours on reading.
-This might not be much considering that I have worked for 15 hours as a contract developer.
+Also, for a major part of my life, I have believed that we need motivation to work. Recently, I found this is not necessarily the case.
 
 Not everything we do needs motivation.
-For example, we don't need motivation to scroll FB, check Instagram. (@thoughts_of_dog) is motivation enough for me to scroll Twitter.
+
+For example, we don't need motivation to scroll social media. (except @thoughts_of_dog, of course. :dog:)
 Basically, the point I'm trying to make is that there are a lot of things don't depend on the existence of activation energy.
 
 ## Motivation Cycle

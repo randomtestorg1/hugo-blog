@@ -1,11 +1,10 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["Software", "Go", "Python"]
+categories = ["Software"]
 date = 2017-12-17T00:00:00+05:30
 description = ""
-draft = false
 slug = "for-some-context"
-tags = ["Software", "Go", "Python"]
+tags = ["Go", "Python"]
 title = "For some Context"
 featured_image = "images/covers/for-some-context.png"
 +++

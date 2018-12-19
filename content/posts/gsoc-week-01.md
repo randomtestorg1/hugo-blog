@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["GSoC", "sympy", "Python"]
+categories = ["GSoC"]
 date = 2016-05-29T00:00:00+05:30
 description = ""
 draft = false
 slug = "gsoc-week-01"
-tags = ["GSoC", "sympy", "Python"]
+tags = ["Sympy", "Python"]
 title = "GSoC Week 01 - The One with Intersections"
 
 +++

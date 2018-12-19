@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["Python"]
+categories = ["Software"]
 date = 2017-12-03T00:00:00+05:30
 description = ""
 draft = false
 slug = "duck-typing-in-python"
-tags = ["Python"]
+tags = ["Python", "OOP"]
 title = "Duck Typing in Python"
 featured_image = "images/covers/duck-typing-in-python.jpg"
 +++

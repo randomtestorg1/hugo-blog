@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["GSoC", "sympy", "Python"]
+categories = ["GSoC"]
 date = 2016-06-10T00:00:00+05:30
 description = ""
 draft = false
 slug = "gsoc-week-03"
-tags = ["GSoC", "sympy", "Python"]
+tags = ["Sympy", "Python"]
 title = "GSoC Week 03 - The One With Function Range (Part II)"
 
 +++

@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["GSoC", "sympy", "Python"]
+categories = ["GSoC"]
 date = 2016-05-22T00:00:00+05:30
 description = ""
 draft = false
 slug = "solving-equations-via-decomposition-and-rewriting"
-tags = ["GSoC", "sympy", "Python"]
+tags = ["Sympy", "Python"]
 title = "Solving equations via Decomposition and Rewriting"
 
 +++

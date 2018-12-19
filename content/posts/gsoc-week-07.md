@@ -1,11 +1,11 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["GSoC", "sympy", "Python"]
+categories = ["GSoC"]
 date = 2016-07-07T00:00:00+05:30
 description = ""
 draft = false
 slug = "gsoc-week-07"
-tags = ["GSoC", "sympy", "Python"]
+tags = ["Sympy", "Python"]
 title = "GSoC Week 07 - The One With Generalised Periodicity"
 
 +++

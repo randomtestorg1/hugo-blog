@@ -1,64 +1,70 @@
 +++
 author = "Kshitij Saraogi"
-categories = ["Motivation"]
-date = 0001-01-01T00:00:00Z
+categories = ["Blog", "Self"]
+date = 2018-11-04T00:21:02+05:30
 description = ""
-draft = true
-slug = "write-more"
-tags = ["Motivation"]
-title = "Announcing Bits&Bytes"
+draft = false
+slug = "blogging"
+tags = ["writing", "motivation"]
+title = "Make Blog Great Again"
 
 +++
+*tl;dr: post about posting more posts*
 
 I have forgotten to write blog posts for over a year or have I?
 
-### The Reflection
-I started this blog after I was selected as a [GSoC 2016 student](https://summerofcode.withgoogle.com/archive/2016/projects/6056916694335488/) under [SymPy](http://www.sympy.org/en/index.html). It was a requirement of the program that the student maintain a blog to log his work updates and my mentors suggested me to write weekly posts. Few weeks working on the project, it seemed that I had developed the habit of writing weekly articles. At that time, I intended to continue writing blog posts regularly. However, as soon as I completed the project successfully, I became **lazy** and **procrastinated**.
+## Blogging 101
 
-Whenever I felt like writing an article, I used to persuade my *"conscious self"* to defer because of the following reasons primarily:
+I started this blog after I was selected as a [GSoC 2016 student](https://summerofcode.withgoogle.com/archive/2016/projects/6056916694335488/) under [SymPy](http://www.sympy.org/en/index.html) so as to log my progress. Few weeks working into the program, it seemed that I had developed the habit of writing weekly articles. Back then, I intended to continue maintaining my blog. However soon after completing the project, I became **lazy** and **procrastinated**. 🙁
 
-- **Non-existent readership**:
-Who am I writing the post for? 
-Hardly anyone will read my posts (apart from your dear friends) so why bother writing it! 
+## Why Did I Stop Posting?
 
-- **Lack of expertise as well as experience**:
-Will my voice be taken seriously?
-Even if someone mistakenly did read my post, they would pass it by as some novice's opinions on the programming topics that he does not even entirely understand.
+Whenever I felt like posting an article, I used to persuade my *"conscious self"* to defer because of the following reasons primarily:
 
-During the project, I had some readership in the form of my mentors and colleagues as well as some expertise in what I was writing about. After the conclusion of the project, I used to give into the temptation of not updating my blog as I had no justifiable response to these questions. Hence, I stopped writing and posting!
+- **Non-existent readership: _Who am I writing the post for?_**  
+Hardly anyone will read my posts(apart from my friends ️🙋‍♂️, of course) so why bother posting them! 
 
-### The Motivation
+- **Lack of expertise as well as experience: _Will my posts be helpful to anyone?_**  
+Even if someone mistakenly did read my post, they would pass it by as some novice's opinions on the topics that he does not even entirely understand; not that I rant too often. Personally, I believe that each article should have a purpose if it is to be deemed useful. And I was unsure about it.
 
-In addition to the psychological and spiritual benefits that blogging about my learnings with the world provides, a blog also provides a professional incentive, especially to a programmer. I always acknowledged these merits of maintaining a decent blog. However, I was unwilling to write for the sake of my selfish needs until I found an honest answer to the above-mentioned two questions.
+During the GSoC period, I had some readership in the form of my mentors and colleagues as well as some expertise in what I was writing about. After the completion of the project, I had no temptation for updating my blog as I had no justifiable response to the 2 driving questions. Hence, I stopped posting! 😞
 
-Few months passed in search of the answers but now I believe I have found them and they are as follows:
+## Motivation
 
-Q1. **Who am I writing the post for?**
-Ans: **Myself!**
+In addition to the psychological and spiritual benefits that blogging about my learnings with the world provides, a blog also provides a professional incentive, especially to a programmer. I always acknowledged these merits of maintaining a decent blog. However, I was unwilling to post until I found an honest answer to the above-mentioned two questions.
 
-From now on, I will be writing all the posts for myself. No, I am not being narcissistic; I intend to use this justification to imply that I am no longer concerned with how many people do read my posts and what opinion they form of me. Using the Feynmann Learning Technique, I have come to the conclusion that, for me, there is no more thorough way to understand a concept than to write about it elaborately. Hence, my blog posts will foster me to review my understanding and challenge me to explore new topics. In short, I am doing this only because I want to grow as a person and a developer. Few years down the line, I expect this blog will be the timeline of my journey and track my progress through time.
+After some introspection, I believe I have found them and they are as follows:
 
-Q2. **Will the readers take my concern and opinion seriously?**
-Ans: **They will if I develop competence.**
+Q1. **Who am I writing the post for?**  
+A: **Myself, in particular; a relentless learner, in general.**
 
-I will write with the sole intention of sharing the current(that is, at the time of writing) preoccupation and what excites me. I want to show the world what I  know about my speciality; be it related to software, books or sports. This way when you have a question about my specialty, you can approach me for help and we both can learn through collaboration.
+From now on, I will be writing all the posts for myself - or those who like to learn new things, make mistakes and correct themselves quickly. 🤓
 
-> "Most of the time, you'll aim to delight the masses and you'll fail. So much easier to aim for the smallest possible audience, not the largest, to build long-term value among a trusted, delighted tribe, to create work that matters and stands the test of time." - Seth Godin
+Q2. **Will my posts be helpful to anyone?**  
+A: **They will if I make it simple enough and develop competence.**
 
-Through writing frequent blog posts, **my goal is to attract *enthusiasts* in my field so I can share ideas with them and create something of value that persists beyond us.**
+I will write with the sole intention of sharing my current preoccupations and what excites me. They shall help me gain some clarity and reflect upon everything I do or happen to me. Thus, they would be useful for me at the very least. 😌
 
-### The Action
-Now that I accept my fears and have answers to all my inhibitions, I feel confident in facing them head-on. 
+Q: **What will I write about?**  
+A: **Everything and anything**
 
-Hence, **I pledge myself to write a weekly blog post for the rest of 2017 starting today. I will show up. No more excuses! Period.**  
+I intend to write about everything that currently occupies me, excites me and motivates me. This includes, but not restricted to, sharing:   
 
-I know that it might be difficult to keep up with the challenge every week but at least, I can assure that I will put my honest and dedicated effort into writing from now on.
+- a concept I recently studied straight from my moleskine  
+- a new project I'm working on or contributing to
+- book reviews; lots of them  
+- reflections on everything stupid, important and in-between
 
-So, see you all next Sunday with my first programming post.
+The primary motivations for me to publish new articles are:  
 
----------
-I write daily into my journal, pour summaries of every significant learning into it as a short paragraph. Part of a digital detox tour I took, motivated by Nassim Taleb's idea of allowing uncertainty into my life.
+1. challenge myself to review my understanding and presenting them effectively 😀
+2. open up a channel of discourse with people of more diverse background 🙊
+3. spread the joy of learning! :tada:
 
-Now, as an individual I rarely disagree with what I write in my diary. This made me question the validity of my learnings and approach to certain events. Recently, I was having a conversation with a very dear friend of mine and I realised the knowledge holes that I have in my mental models. It would be good to share my part of the story and learn from yours.
+## Modus Operandi
 
-Disagreements are always very good. So, if you have any disagreements with what I have to say about a topic, I welcome you, even command you to share it with me in the comments section. That, I would consider, to be the ultimate respect I got from you.
+**I pledge myself to publish a new article every Sunday for the rest of 2018.**  
+
+It will be challenging to post every week but I can assure that I will put my honest and dedicated effort into writing from now on.
+
+So, see you all next Sunday for the beginning. :grin:
